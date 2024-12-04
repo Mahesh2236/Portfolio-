@@ -1,0 +1,56 @@
+Uri: https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap
+File Name: C:\Users\MAHESH\Desktop\pravin-boopathi.netlify.app\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLBT5V1s.ttf
+File Name: C:\Users\MAHESH\Desktop\pravin-boopathi.netlify.app\s\poppins\v21\pxiByp8kv8JHgFVrLBT5V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLCz7V1s.ttf
+File Name: C:\Users\MAHESH\Desktop\pravin-boopathi.netlify.app\s\poppins\v21\pxiByp8kv8JHgFVrLCz7V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLDD4V1s.ttf
+File Name: C:\Users\MAHESH\Desktop\pravin-boopathi.netlify.app\s\poppins\v21\pxiByp8kv8JHgFVrLDD4V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLDz8V1s.ttf
+File Name: C:\Users\MAHESH\Desktop\pravin-boopathi.netlify.app\s\poppins\v21\pxiByp8kv8JHgFVrLDz8V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLEj6V1s.ttf
+File Name: C:\Users\MAHESH\Desktop\pravin-boopathi.netlify.app\s\poppins\v21\pxiByp8kv8JHgFVrLEj6V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLFj_V1s.ttf
+File Name: C:\Users\MAHESH\Desktop\pravin-boopathi.netlify.app\s\poppins\v21\pxiByp8kv8JHgFVrLFj_V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLGT9V1s.ttf
+File Name: C:\Users\MAHESH\Desktop\pravin-boopathi.netlify.app\s\poppins\v21\pxiByp8kv8JHgFVrLGT9V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiEyp8kv8JHgFVrFJA.ttf
+File Name: C:\Users\MAHESH\Desktop\pravin-boopathi.netlify.app\s\poppins\v21\pxiEyp8kv8JHgFVrFJA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiGyp8kv8JHgFVrLPTedw.ttf
+File Name: C:\Users\MAHESH\Desktop\pravin-boopathi.netlify.app\s\poppins\v21\pxiGyp8kv8JHgFVrLPTedw.ttf
+Content Type: font/ttf
+
+Uri: https://pravin-boopathi.netlify.app/
+File Name: C:\Users\MAHESH\Desktop\pravin-boopathi.netlify.app\index.htm
+Content Type: text/html
+
+Uri: https://pravin-boopathi.netlify.app/HeroImage.jpg
+File Name: C:\Users\MAHESH\Desktop\pravin-boopathi.netlify.app\HeroImage.jpg
+Content Type: image/jpeg
+
+Uri: https://pravin-boopathi.netlify.app/static/css/main.e079a8d2.css
+File Name: C:\Users\MAHESH\Desktop\pravin-boopathi.netlify.app\static\css\main.e079a8d2.css
+Content Type: text/css
+
+Uri: https://pravin-boopathi.netlify.app/static/js/main.769d82a9.js
+File Name: C:\Users\MAHESH\Desktop\pravin-boopathi.netlify.app\static\js\main.769d82a9.js
+Content Type: application/javascript
+
